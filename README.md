@@ -2,7 +2,7 @@
 
 Hi, I'm Yuri Sousa Oloiveira.
 My main goal is to become a specialist in software development and help create high-level technological solutions.
-- 📧 How to contact: ncaio037@gmail.com
+- 📧 How to contact: yuri.sousa42@hotmail.com
 - [LinkedIn](https://www.linkedin.com/in/yurisousaoli/)
 
 ## 📊 GitHub Stats
