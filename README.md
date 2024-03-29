@@ -8,8 +8,8 @@ My main goal is to become a specialist in software development and help create h
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriSousaOliveira&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriSousaOliveira&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriSousaOliveira&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriSousaOliveira&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 ## 💻 Tech Stack
