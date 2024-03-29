@@ -5,13 +5,6 @@ My main goal is to become a specialist in software development and help create h
 - 📧 How to contact: yuri.sousa42@hotmail.com
 - [LinkedIn](https://www.linkedin.com/in/yurisousaoli/)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriSousaOliveira&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriSousaOliveira&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
-</div>
-
 ## 💻 Tech Stack
 
 Here are some of the technologies and tools I use in my projects: 
