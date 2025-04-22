@@ -1,6 +1,6 @@
 # 👤 About me
 
-Hi, I'm Yuri Sousa Oloiveira.
+Hi, I'm Yuri Sousa Oliveira.
 My main goal is to become a specialist in software development and help create high-level technological solutions.
 - 📧 How to contact: yuri.sousa42@hotmail.com
 - [LinkedIn](https://www.linkedin.com/in/yurisousaoli/)
